@@ -1,6 +1,6 @@
 javascript:(function() {
   var iframe = document.createElement('iframe');
-  iframe.setAttribute('src', 'https://gptchatly.com/');
+  iframe.setAttribute('src', 'https://www.gigacalculator.com/calculators/surface-area-calculator.php');
   iframe.style.position = 'fixed';
   iframe.style.top = '50%';
   iframe.style.left = '50%';
@@ -31,6 +31,5 @@ javascript:(function() {
 
   document.body.appendChild(iframe);
   document.body.appendChild(closeButton);
-   alert('Made by Tacogamerman on github.')
 })();
 
